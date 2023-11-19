@@ -1,0 +1,101 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://wallpapers.com/images/hd/uno-card-red-poster-fahn507dk0y40lko.jpg");
+  background-color: #111;
+  background-size: cover;
+  background-position: center-top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+  text-shadow: 2px 2px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  border: 2px solid white;
+  border-collapse: collapse;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+h2 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+th,
+tr,
+td {
+  border: solid 1px white;
+  color: white;
+}
+
+button {
+  background-color: #8da9c4;
+  color: #ffffff;
+}
+
+.bAdd {
+  color: white;
+  background: #0096ff;
+}
+.bLimpT {
+  color: white;
+  background: #0096ff;
+}
+.limpT {
+  color: white;
+  background: #0096ff;
+}
+
+.name_input {
+  width: 200px;
+}
+.icon_input {
+  width: 200px;
+}
+.icone {
+  padding: 5px;
+  width: 80px;
+  height: 60px;
+  display: block center;
+}
+.botao_acao {
+  width: 100%;
+  padding: 25px;
+  background-color: #aa0000;
+  text-color: #ffffff;
+  text-size: 100px;
+}
